@@ -6,7 +6,7 @@ namespace DevOpsTask
     {
         static void Main(string[] args)
         {
-            Console.WriteLine($"Welcome to DevOps.");
+            Console.WriteLine($"Welcome to DevOps");
         }
     }
 }
