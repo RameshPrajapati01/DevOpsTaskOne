@@ -1,0 +1,7 @@
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\bin\Debug\DevOpsTask.exe.config
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\bin\Debug\DevOpsTask.exe
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\bin\Debug\DevOpsTask.pdb
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\obj\Debug\DevOpsTask.csprojAssemblyReference.cache
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\obj\Debug\DevOpsTask.csproj.CoreCompileInputs.cache
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\obj\Debug\DevOpsTask.exe
+C:\Users\ramesh.prajapati\source\repos\DevOpsTask\DevOpsTask\obj\Debug\DevOpsTask.pdb
